@@ -73,8 +73,7 @@ flowchart LR
 1. Open the notebook: [**Open W01_UncertaintyDemo_Team01_MyBuild.ipynb in Colab**](https://colab.research.google.com/github/ahmedtayel714/Advanced-AI-and-Uncertainty--W1/blob/main/W01_UncertaintyDemo_Team01_MyBuild.ipynb), or scan the QR code below.
 2. Choose **Runtime > Run all**. A full run takes about 30 seconds.
 
-<img src="assets/W01_Colab_QR_MyBuild.png" alt="QR code that opens the demo notebook in Google Colab" width="200">
-
+<img src="W01_Colab_QR_MyBuild_card.png" alt="QR code that opens the demo notebook in Google Colab" width="200">
 ### On your own computer
 
 ```bash
