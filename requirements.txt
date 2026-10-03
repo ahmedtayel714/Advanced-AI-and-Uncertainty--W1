@@ -1,0 +1,7 @@
+# Runtime dependencies for the demo notebooks.
+# Tested with Python 3.11, numpy 2.4, pandas 3.0, matplotlib 3.10, scikit-learn 1.8.
+# The versions below are conservative lower bounds, not exact pins. Only the versions above were tested.
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
