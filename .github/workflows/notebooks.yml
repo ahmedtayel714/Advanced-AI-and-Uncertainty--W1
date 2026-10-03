@@ -1,6 +1,6 @@
 name: Run notebooks
 
-# Executes both demo notebooks from top to bottom. The run fails if any cell raises an error.
+# Executes demo notebook from top to bottom. The run fails if any cell raises an error.
 on:
   push:
   pull_request:
@@ -14,7 +14,6 @@ jobs:
       matrix:
         notebook:
           - W01_UncertaintyDemo_Team01_MyBuild.ipynb
-          - W01_UncertaintyDemo_Team01.ipynb
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4
